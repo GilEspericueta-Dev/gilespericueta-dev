@@ -36,7 +36,7 @@ A lo largo de mi formación académica y laboral, he trabajado con diversas tecn
 
 ### 🌱 Intereses y Objetivos
 
-Me gusta la **programación web** y tengo interés en el **desarrollo de videojuegos**. Recientemente me he adentrado un poco en el **desarrollo móvil** y exploro la **Inteligencia Artificial** aplicada mediante Computer Vision. Mi objetivo principal es siempre aprender y descubrir nuevas áreas de oportunidad.
+Me gusta la **programación web** y tengo interés en el **desarrollo de videojuegos**. Recientemente me he adentrado un poco en el **desarrollo móvil** y exploro la **Inteligencia Artificial** aplicada. Mi objetivo principal es siempre aprender y descubrir nuevas áreas de oportunidad.
 
 ---
 
