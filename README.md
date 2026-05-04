@@ -2,8 +2,6 @@
   <h1 id="header">¡Hola! Soy Gilberto Espericueta 👋</h1>
   <p>Egresado del Instituto Tecnológico de Tijuana (ITT) como Ingeniero en Sistemas Computacionales.</p>
 
-* **Lee un poco sobre mi en los dando clic en el idioma deseado.**
-
 ---
 
 ### <a id="inicio" /> 💻 Tecnologías y Habilidades
